@@ -1,6 +1,6 @@
 # Asp_mvc_2_Modul3
 
-br> <b> Data Diri : </b>
+<br> <b> Data Diri : </b>
 <br>Nama : Elvira Ayu Sosilia 
 <br>Asal  : SMK Telkom Malang
 <br>No : 09 
